@@ -6,9 +6,9 @@ Coderium is a website built in Django.
 <br>3. You will get your own profile page.</br>
 
 <h1>Screenshots -</h1>
-<img src="https://github.com/Shahmir-Riddo/Coderium-Django/blob/main/Screenshot%20(23).png"
-<img src="https://github.com/Shahmir-Riddo/Coderium-Django/blob/main/Screenshot%20(24).png"
-<img src="https://github.com/Shahmir-Riddo/Coderium-Django/blob/main/Screenshot%20(25).png"
-<img src="https://github.com/Shahmir-Riddo/Coderium-Django/blob/main/Screenshot%20(26).png"
-<img src="https://github.com/Shahmir-Riddo/Coderium-Django/blob/main/Screenshot%20(27).png"
+<img src="https://github.com/Shahmir-Riddo/Coderium-Django/blob/main/Screenshot%20(23).png">
+<img src="https://github.com/Shahmir-Riddo/Coderium-Django/blob/main/Screenshot%20(24).png">
+<img src="https://github.com/Shahmir-Riddo/Coderium-Django/blob/main/Screenshot%20(25).png">
+<img src="https://github.com/Shahmir-Riddo/Coderium-Django/blob/main/Screenshot%20(26).png">
+<img src="https://github.com/Shahmir-Riddo/Coderium-Django/blob/main/Screenshot%20(27).png">
 
